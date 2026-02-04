@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Robotics & Computer Science Instructor | Game Developer | Open Source Enthusiast
+### Robotics & Computer Science Instructor | Open Source Enthusiast
 
 [Personal Website](https://yeshwanthkumardomala.github.io) • [Thread](https://www.threads.com/@yesh_fricky__) • [LinkedIn](www.linkedin.com/in/yeshwanth-kumar-d-2367b61b8) • [Medium](https://medium.com/@yeshwanthkumardomala)
 
@@ -40,23 +40,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C/C++, GDScript, TypeScript, JavaScript  
-**Game Development:** Godot Engine, MIT App Inventor, Unity  
-**IoT & Robotics:** Arduino, TinkerCAD, RFID Sensors, Raspberry Pi  
+**IoT & Robotics:** Arduino, TinkerCAD, Raspberry Pi  
 **Cloud & Tools:** GitHub, Google Colab, Google Sheets, VS Code  
 **Platforms:** Linux, Windows, macOS, Raspberry Pi  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeshwanthkumardomala&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yeshwanthkumardomala)
-
-</div>
-
----
 
 ## 🎯 Featured Projects
 
@@ -81,9 +70,9 @@
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [yeshwanthkumardomala@gmail.com](mailto:yeshwanthkumardomala@gmail.com) |
-| 💼 **LinkedIn** | [@yeshwanth-kumar-domala](https://www.linkedin.com/in/yeshwanth-kumar-domala/) |
-| 🐦 **Twitter/X** | [@YeshwanthDomala](https://twitter.com/YeshwanthDomala) |
+| 📧 **Email** | [yeshwanthkumardomala@gmail.com](yeshwanthkumardomala@gmail.com) |
+| 💼 **LinkedIn** | [@yeshwanth-kumar-domala](www.linkedin.com/in/yeshwanth-kumar-d-2367b61b8) |
+| 🐦 **X** | @YeshwanthDomala]([DomalaYeshwanth](https://x.com/DomalaYeshwanth) |
 | 📍 **Location** | Hyderabad, Telangana, India 🇮🇳 |
 | 📱 **Instagram** | [@yesh_fricky__](https://instagram.com/yesh_fricky__) |
 
