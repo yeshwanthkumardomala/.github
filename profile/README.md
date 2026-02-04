@@ -8,7 +8,7 @@
 
 ### Robotics & Computer Science Instructor | Game Developer | Open Source Enthusiast
 
-[Personal Website](https://yeshwanthkumardomala.github.io) • [Thread](https://threads.net/@yeshwanth) • [LinkedIn](https://linkedin.com/in/yeshwanth-kumar-domala) • [Medium](https://medium.com/@yeshwanth)
+[Personal Website](https://yeshwanthkumardomala.github.io) • [Thread]([https://threads.net/@yeshwanth](https://www.threads.com/@yesh_fricky__) • [LinkedIn](www.linkedin.com/in/yeshwanth-kumar-d-2367b61b8) • [Medium](https://medium.com/@yeshwanthkumardomala)
 
 </div>
 
