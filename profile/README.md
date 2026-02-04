@@ -72,7 +72,7 @@
 |----------|------|
 | 📧 **Email** | [yeshwanthkumardomala@gmail.com](yeshwanthkumardomala@gmail.com) |
 | 💼 **LinkedIn** | [@yeshwanth-kumar-domala](www.linkedin.com/in/yeshwanth-kumar-d-2367b61b8) |
-| 🐦 **X** | @YeshwanthDomala]([DomalaYeshwanth](https://x.com/DomalaYeshwanth) |
+| 🐦 **X** | [@YeshwanthDomala](https://x.com/DomalaYeshwanth) |
 | 📍 **Location** | Hyderabad, Telangana, India 🇮🇳 |
 | 📱 **Instagram** | [@yesh_fricky__](https://instagram.com/yesh_fricky__) |
 
@@ -80,7 +80,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 🌟 Support
 
