@@ -60,8 +60,6 @@
 
 ## 🎯 Featured Projects
 
-- **[Shoot Contributions](https://github.com/yeshwanthkumardomala/shoot-contributions)** - Transform GitHub contributions into an interactive space shooter game 🎮
-- **[Godot Game Projects](https://github.com/yeshwanthkumardomala?q=godot)** - Educational game development with Godot Engine
 - **[Campus Inventory IMS](https://github.com/yeshwanthkumardomala/Campus-Inventory-IMS)** - Educational inventory management system
 - **[Arduino IoT Projects](https://github.com/yeshwanthkumardomala?q=arduino)** - Robotics and IoT experiments
 
@@ -94,10 +92,6 @@
 ---
 
 <div align="center">
-
-### 💡 Philosophy
-
-> _"Teaching is not just a profession; it's a passion for shaping the future through technology and innovation."_
 
 ### 🌟 Support
 
