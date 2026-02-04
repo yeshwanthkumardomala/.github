@@ -30,8 +30,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Teaching** robotics and computer science to 350+ students at [Jawahar Navodaya Vidyalaya](https://www.jnvrangareddy.ac.in/)
-- 🤖 **Expertise**: Arduino, IoT, Robotics, Game Development (Godot Engine)
-- 📱 **Building** educational projects with Python, GDScript, and C++
+- 🤖 **Expertise**: Arduino, IoT, Robotics
 - 🎮 **Creating** game-based learning experiences for STEM education
 - 📚 **Developing** comprehensive coding and robotics curricula
 - 🌐 **Active** in open-source educational projects
