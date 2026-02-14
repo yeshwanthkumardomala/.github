@@ -8,7 +8,7 @@
 
 ### Robotics & Computer Science Instructor | Open Source Enthusiast
 
-[Personal Website](https://yeshwanthkumardomala.github.io) • [Thread](https://www.threads.com/@yesh_fricky__) • [LinkedIn](www.linkedin.com/in/yeshwanth-kumar-d-2367b61b8) • [Medium](https://medium.com/@yeshwanthkumardomala) , [Thread](https://www.hackster.io/yeshwanthkumardomala)
+[Personal Website](https://yeshwanthkumardomala.github.io) • [Thread](https://www.threads.com/@yesh_fricky__) • [LinkedIn](www.linkedin.com/in/yeshwanth-kumar-d-2367b61b8) • [Medium](https://medium.com/@yeshwanthkumardomala) , [Hackster](https://www.hackster.io/yeshwanthkumardomala)
 
 </div>
 
