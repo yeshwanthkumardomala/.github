@@ -20,17 +20,15 @@
 
 [![Space Shooter](https://raw.githubusercontent.com/yeshwanthkumardomala/shoot-contributions/main/assets/space-shooter.gif)](https://github.com/yeshwanthkumardomala/shoot-contributions)
 
-**Turn your GitHub contributions into a playable space shooter game!** 🚀  
-[View Project](https://github.com/yeshwanthkumardomala/shoot-contributions)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me\
 
-- **Robotic Instructor**  In India Stem Foundation  currently working in JNVRR 
--  🎓 **Teaching** robotics and computer science to 450+ students at [Jawahar Navodaya Vidyalaya](https://www.jnvrangareddy.ac.in/)
+- **Robotic Instructor** In [India Stem Foundation].(https://indiastemfoundation.org/)
+-  🎓 **Teaching** robotics and computer science currently to 450+ students at [Jawahar Navodaya Vidyalaya](https://www.jnvrangareddy.ac.in/)
 - 🤖 **Expertise**: Arduino, IoT, Robotics
 - 🎮 **Creating** game-based learning experiences for STEM education
 - 📚 **Developing** comprehensive coding and robotics curricula
