@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Teaching** robotics and computer science to 350+ students at [Jawahar Navodaya Vidyalaya](https://www.jnvrangareddy.ac.in/)
+- 🎓 Currently working with ISF as a Robotics Instructor, mentoring students at Jawahar Navodaya Vidyalaya [Jawahar Navodaya Vidyalaya](https://www.jnvrangareddy.ac.in/)
 - 🤖 **Expertise**: Arduino, IoT, Robotics, Game Development (Godot Engine)
 - 📱 **Building** educational projects with Python, and C++
 - 🎮 **Creating** game-based learning experiences for STEM education
