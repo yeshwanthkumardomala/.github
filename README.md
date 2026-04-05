@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🎮 Hello, I am Yeshwanth ! 👋
+# 🎮 Hello,Yeshwanth Here ! 👋
 
 </div>
 
 <div align="center">
 
-### Robotics & Computer Science Instructor | Game Developer | Open Source Enthusiast
+### Robotics Instructor | Indie Game Developer | Open Source Enthusiast
 
 [Personal Website](https://yeshwanthkumardomala.github.io) • [Thread](https://threads.net/@yeshwanth) • [LinkedIn](https://linkedin.com/in/yeshwanth-kumar-domala) • [Medium](https://medium.com/@yeshwanth)
 
@@ -31,17 +31,16 @@
 
 - 🎓 **Teaching** robotics and computer science to 350+ students at [Jawahar Navodaya Vidyalaya](https://www.jnvrangareddy.ac.in/)
 - 🤖 **Expertise**: Arduino, IoT, Robotics, Game Development (Godot Engine)
-- 📱 **Building** educational projects with Python, GDScript, and C++
+- 📱 **Building** educational projects with Python, and C++
 - 🎮 **Creating** game-based learning experiences for STEM education
 - 📚 **Developing** comprehensive coding and robotics curricula
-- 🌐 **Active** in open-source educational projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C/C++, GDScript, TypeScript, JavaScript  
-**Game Development:** Godot Engine, MIT App Inventor, Unity  
+**Languages:** Python, C/C++, GDScript 
+**Game Development:** Godot Engine
 **IoT & Robotics:** Arduino, TinkerCAD, RFID Sensors, Raspberry Pi  
 **Cloud & Tools:** GitHub, Google Colab, Google Sheets, VS Code  
 **Platforms:** Linux, Windows, macOS, Raspberry Pi  
@@ -55,15 +54,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeshwanthkumardomala&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yeshwanthkumardomala)
 
 </div>
-
----
-
-## 🎯 Featured Projects
-
-- **[Shoot Contributions](https://github.com/yeshwanthkumardomala/shoot-contributions)** - Transform GitHub contributions into an interactive space shooter game 🎮
-- **[Godot Game Projects](https://github.com/yeshwanthkumardomala?q=godot)** - Educational game development with Godot Engine
-- **[Campus Inventory IMS](https://github.com/yeshwanthkumardomala/Campus-Inventory-IMS)** - Educational inventory management system
-- **[Arduino IoT Projects](https://github.com/yeshwanthkumardomala?q=arduino)** - Robotics and IoT experiments
 
 ---
 
@@ -97,7 +87,9 @@
 
 ### 💡 Philosophy
 
-> _"Teaching is not just a profession; it's a passion for shaping the future through technology and innovation."_
+> _"“Jack of all trades, master of figuring things out.”"_
+> _"“If it works, it’s engineering. If it doesn’t, it’s research.”"_
+> _"“I build things that either impress… or make smoke (learning phase).”"_
 
 ### 🌟 Support
 
@@ -109,7 +101,6 @@ It helps me create more amazing educational content for the community.
 I'm always open to:
 - 🤝 Educational collaboration
 - 📚 Content creation
-- 🔧 Open-source contributions
 - 💬 Knowledge sharing
 
 **Feel free to reach out!** 🚀
