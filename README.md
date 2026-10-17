@@ -14,6 +14,12 @@
 
 ---
 
+## 🗂️ Repository Directory
+
+I maintain projects across robotics, AI, web platforms, education, games, and open-source experiments. Browse the [categorized repository catalog](./REPOSITORY_CATALOG.md) for the full index, confirmed forks, and repositories to review.
+
+---
+
 ## 🎮 My GitHub Activity Game
 
 <div align="center">
